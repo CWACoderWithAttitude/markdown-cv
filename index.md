@@ -6,18 +6,17 @@ title: Isaac Newtons's CV
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="cwacoderWithAttitude@gmail.com>cwacoderWithAttitude@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior Softwar Engineer
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+AEM, JavaEE, J2EE, 
 
 
 ### Research interests
@@ -25,13 +24,13 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
+## Prof. Experience
 
-`1654-1660`
-__The King's School, Grantham.__
+`01/2016-today`
+__Untershied & Macher GmbH, Frankfurt a. Main__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`11/2014-today`
+__BearingPoint Software Solutions GmbH, Frankfurt a. Main__
 
 - Sizar
 
